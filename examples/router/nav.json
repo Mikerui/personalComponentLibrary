@@ -1,0 +1,16 @@
+{
+  "开发指南": [{
+    "name": "Home",
+    "path": "/",
+    "type": "views"
+  }, {
+    "name": "giud",
+    "path": "/giud",
+    "desc": "介绍"
+  }],
+  "组件": [{
+    "name": "upload",
+    "path": "/upload",
+    "desc": "图片上传"
+  }]
+}
