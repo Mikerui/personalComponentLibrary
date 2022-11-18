@@ -21,7 +21,7 @@
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.5.0",
-    "@vue/cli-service": "^3.5.0",
+    "@vue/cli-service": "^5.0.8",
     "cheerio": "^1.0.0-rc.2",
     "highlight.js": "^9.15.6",
     "markdown-it": "^8.4.2",
